@@ -1,12 +1,24 @@
 .jumbotron {
   padding-top: 7rem;
   background-color: #a2d9ff;
+  background: url("img/bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
 }
 #project {
   background-color: #a2d9ff;
 }
 body {
   font-family: "Pixelify Sans", sans-serif;
+}
+#about {
+  background-image: url("img/Sprite-.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
 }
 .card {
   position: relative;
